@@ -1,0 +1,121 @@
+nav {
+    width: 100%;
+    margin: auto;
+    display: flex;
+    line-height: 60px;
+    position: sticky;
+    position: -webkit-sticky; 
+    top: 0;
+    background: #FFFFFF;
+    z-index: 1;
+    border-bottom:1px solid #364f6b;
+}
+.menu{
+    list-style: none;
+    list-style-type: none;
+    text-align: center;
+    margin: auto;
+    float: right;}
+    .menu ul{
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+       position: relative;
+       display: block;
+       text-align: right;
+    }
+    
+    .menu ul li{
+        list-style-type: none;
+        display: inline-block;
+        line-height: 10px;
+        display:inline-block;
+
+
+}
+.menu ul li a{
+    text-decoration: none ;
+    font-family: sans-serif;
+    margin: 10px;
+    padding: 14px 20px;
+    font-size: 24px;
+    color: rgb(40, 82, 97); }
+
+.logo a{
+    font-family: sans-serif;
+    font-size: 80px;
+    color: rgb(40, 82, 97);
+    text-decoration: none;
+    padding: 10px;
+}
+section{
+    height: 1000px;
+    width: 80%;
+    background:#364f6b;
+    margin: auto;
+    padding-top: -10px;
+    padding-bottom: -10px;
+}
+h1 {
+    text-decoration: none;
+    font-size: 50px;
+    padding: 90px;
+    font-family: sans-serif;
+    color: white;
+} 
+.gambar{
+    padding-left: 80px;
+    margin:auto;
+    float: left;
+    height: 720px;
+    
+}
+
+.paragraf{
+    padding-right: 80px;
+    float:right;
+    text-align: left;
+    background: #283d54;
+    height: 720px;
+    width: auto;
+
+}
+p{
+    color: white;
+    font-family: sans-serif;
+    font-size: 20px;
+    padding: 10px;
+    height: auto;
+    width: 650px;
+    background:#283d54;
+    
+}
+
+.paragraf ul li{
+    color: white;
+    
+}
+.paragraf ul li a{
+    text-align: left;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 20px;
+    color: white;
+}
+.paragraf p a{
+    color: white;
+    font-family: sans-serif;
+    text-decoration: underline;
+}
+.paragraf h2{
+    padding-left:10px ;
+    color: white;
+    font-family:sans-serif ;
+}
+
+    
+
+   
+
+
+
